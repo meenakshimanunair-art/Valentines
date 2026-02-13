@@ -13,9 +13,9 @@ const noMessages = [
     "No",
     "Baby are you sure? 🤔",
     "bubbyyyy say yessss...",
-    "Heartbreak!!! 💔",
     "Poda,HOW DARE YOU!🤬",
     "You have no option, you cant catch me 😉",
+    "DONT DO ITTTTT",
     "NOOOO",
     "NOOOOOOO",
     "You have no option, you cant catch me. 😜"
